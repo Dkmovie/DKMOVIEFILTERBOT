@@ -8,7 +8,7 @@ aiohttpsession = ClientSession()
 C = "**𝙼𝙰𝙳𝙴 𝙱𝚈 [𝙰𝙹𝙰𝚇](https://t.me/Devil0Bot_Bot)**"
 F = InlineKeyboardMarkup(
 [[
-     InlineKeyboardButton("𝚄𝙿𝙳𝙰𝚃𝙴𝚉 𝙲𝙷𝙰𝙽𝙽𝙴𝙻", url="https://t.me/OpusTechz")
+     InlineKeyboardButton("𝚄𝙿𝙳𝙰𝚃𝙴𝚉 𝙲𝙷𝙰𝙽𝙽𝙴𝙻", url="https://t.me/Dk_Area")
 ]]
 )
 
