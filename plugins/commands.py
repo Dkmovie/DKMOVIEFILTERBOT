@@ -40,7 +40,7 @@ async def start(client, message):
             InlineKeyboardButton('💠 GᏒԾUᎮ 💠', url='https://t.me/DK_HDmovie')
             ],[      
             InlineKeyboardButton('♻️ HΞLᎮ ♻️', callback_data='help'),
-            InlineKeyboardButton('CONTACT ME', url='https://t.me/AboutAadhi'),
+            InlineKeyboardButton('CONTACT ME', url='https://t.me/R_KOHLI'),
             InlineKeyboardButton('♻️ ΛBOUT ♻️', callback_data='about')
             ],[
             InlineKeyboardButton('✅ SUBSCᏒIBΞ  ✅', url='https://t.me/DK_Area')
@@ -84,7 +84,7 @@ async def start(client, message):
             InlineKeyboardButton('💠 GᏒԾUᎮ 💠', url='https://t.me/DK_HDmovie')
             ],[      
             InlineKeyboardButton('♻️ HΞLᎮ ♻️', callback_data='help'),
-            InlineKeyboardButton('CONTACT ME', url='https://t.me/AboutAadhi'),
+            InlineKeyboardButton('CONTACT ME', url='https://t.me/R_KOHLI'),
             InlineKeyboardButton('♻️ ΛBOUT ♻️', callback_data='about')
             ],[
             InlineKeyboardButton('✅ SUBSCᏒIBΞ  ✅', url='https://t.me/DK_Area')
@@ -117,7 +117,7 @@ async def start(client, message):
         chat_id=message.from_user.id,
         file_id=file_id,
         caption=f_caption,
-        reply_markup=InlineKeyboardMarkup( [ [ InlineKeyboardButton('sᴜʙsᴄʀɪʙᴇ', url='https://t.me/DK_Gru') ] ] ),
+        reply_markup=InlineKeyboardMarkup( [ [ InlineKeyboardButton('👉PRESS ME👈', url='https://t.me/DK_Gru') ] ] ),
         )
                     
 
